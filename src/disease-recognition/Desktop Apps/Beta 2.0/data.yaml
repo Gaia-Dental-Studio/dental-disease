@@ -1,0 +1,7 @@
+train: D:\Working\Dental Disease Classification\Final\Beta 2.0\train
+val: D:\Working\Dental Disease Classification\Final\Beta 2.0\valid
+test: D:\Working\Dental Disease Classification\Final\Beta 2.0\test
+
+nc: 13
+names: ['Fractured Teeth - Crown', 'Tooth Decay - Crown', 'Misaligned - Aligner', 'Multiple Tooth Loss - Implant', 'Single Tooth - Bridge', 'Spaced - Aligner', 'Caries - Filling', 'Caries - RCT', 'Abrasion - Filling', 'Fractured - Filling', 'Ulcer Teeth - Antibiotics', 'Tooth Discoloration - Veneers', 'Gingivitis - Scaling']
+
